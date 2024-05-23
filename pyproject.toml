@@ -1,0 +1,14 @@
+[project]
+name = "xycuno-oobabooga"
+description = "Xycuno Oobabooga provides custom nodes for ComfyUI, for sending requests to an [a/Oobabooga](https://github.com/oobabooga/text-generation-webui) instance to assist in creating prompt texts."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/Xyem/Xycuno-Oobabooga"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Xycuno-Oobabooga"
+Icon = ""
